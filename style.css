@@ -1,0 +1,34 @@
+#surface {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+}
+
+#shallow {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+}
+
+#light {
+    color: #cccccc;
+    text-shadow: 1px 1px 3px black;
+}
+
+#dark {
+    color: #666666;
+}
+
+#warm {
+    color: #980000;
+}
+
+#melted {
+    color: #ff0000;
+}
+
+table, th, td {
+    border:1px solid black;
+}
+
+a {
+    text-decoration: none;
+}
