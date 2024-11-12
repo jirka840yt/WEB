@@ -25,10 +25,106 @@
     color: #ff0000;
 }
 
+#random {
+    color: #ffeb9e;
+}
+
+#ionized {
+    color: #a4c2f4;
+}
+
+#radiated {
+    color: #38761d;
+}
+
+#enlightened {
+    color: #6d9eeb;
+}
+
+#void {
+    color: #434343;
+}
+
+#total-darkness {
+    color: #000000;
+}
+
+#absolute-lightness {
+    color: #ffffff;
+    text-shadow: 1px 1px 3px black;
+}
+
+#normalization {
+    color: #b7b7b7;
+}
+
+#instability {
+    color: #ead1dc;
+    text-shadow: 1px 1px 3px black;
+}
+
+#quantum {
+    color: #f37aff;
+}
+
+#dimension-leap {
+    color: #ff00ff;
+}
+
+#quiet {
+    color: #4c4c4c;
+}
+
+#permafrost {
+    color: #00ffff;
+}
+
+#overheat {
+    color: #ff6400;
+}
+
+#gravitized {
+    color: #ffff00;
+    text-shadow: 1px 1px 3px black;
+}
+
+#glitched {
+    color: #00ff00;
+}
+
+#singularity {
+    color: #000000;
+}
+
+#pulled-apart {
+    color: #9900ff;
+}
+
+#solid-matter {
+    color: #cc4125;
+}
+
+#quark-paste {
+    color: #cc1425;
+}
+
+#nothing {
+    color: #000000;
+}
+
+#the-edge {
+    color: #e6d8a1;
+    text-shadow: 1px 1px 3px black;
+}
+
 table, th, td {
     border:1px solid black;
 }
 
 a {
     text-decoration: none;
+}
+
+p,a,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lexend", sans-serif;
 }
